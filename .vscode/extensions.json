@@ -2,6 +2,6 @@
   "recommendations": [
     "Angular.ng-template",
     "editorconfig.editorconfig",
-    "ms-vscode.vscode-typescript-tslint-plugin",
+    "dbaeumer.vscode-eslint"
   ]
 }
